@@ -1,0 +1,2 @@
+# atividade-ponderada-lista02
+ 
