@@ -261,7 +261,7 @@ Pedidos de R$200,00 ou mais → "Frete grátis!"
 ```
 Implemente um pseudocódigo que receba o valor total da compra e exiba a classificação correta do frete para o cliente.
 
-``// 
+``
 function ClassifyShipping(purchaseValue) {
     if (purchaseValue < 50) {
         print("Shipping not available!");
